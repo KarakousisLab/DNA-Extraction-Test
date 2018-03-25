@@ -1,4 +1,4 @@
-# laughing-octo-journey
+# DNA-Extraction-Test
 This protocol describes a method for extracting DNA from _Mycobacterium tuberculosis_.
 
 ## Acknowledgements
